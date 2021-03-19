@@ -9,5 +9,5 @@ test data: data/test.txt<br>
 > python data.py<br>
 > python train.py<br>
 > python evaluate.py<br>
-or<br>
+#### or<br>
 > sh start.sh<br>

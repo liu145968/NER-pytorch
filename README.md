@@ -1,13 +1,13 @@
 # NER-pytorch
 LSTM_CRF
 ## data path
-train data: data/train.txt
-valid data: data/valid.txt
-test data: data/test.txt
+train data: data/train.txt<br>
+valid data: data/valid.txt<br>
+test data: data/test.txt<br>
 
 ## start
-> python data.py
-> python train.py
-> python evaluate.py
-or
-> sh start.sh
+> python data.py<br>
+> python train.py<br>
+> python evaluate.py<br>
+### or<br>
+> sh start.sh<br>

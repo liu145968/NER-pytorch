@@ -1,11 +1,11 @@
 # NER-pytorch
 LSTM_CRF
 ## data
-> 高I_hypertension<br>
-> 血I_hypertension<br>
-> 压I_hypertension<br>
-> 病O<br>
-> 史O<br>
+> 高 I_hypertension<br>
+> 血 I_hypertension<br>
+> 压 I_hypertension<br>
+> 病 O<br>
+> 史 O<br>
 
 
 
